@@ -1,10 +1,10 @@
 {
     "type": "Person",
-    "firstName": "Doris",
-    "lastName": "Soto",
+    "firstName": "NIKHIL",
+    "lastName": "RAJ",
     "image": {
         "type": "ImageBlock",
         "url": "/images/about.jpg",
-        "altText": "Doris Soto photo"
+        "altText": "Nikhil Raj photo"
     }
 }
